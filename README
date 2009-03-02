@@ -1,3 +1,9 @@
 Cześć wszystkim.
 
+
+  git add .
+  git commit -m 'first commit'
+  git remote add origin git@github.com:JakubOboza/srcc.git
+  git push origin master
+
 Pozdrawiam Kuba
