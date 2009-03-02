@@ -1,9 +1,32 @@
 Cześć wszystkim.
 
+- Aby zrobic klona repo musicie zrobic
+
+git clone <url do repo>
+
+- Aby cos wkomitowac lokalnie
 
   git add .
   git commit -m 'first commit'
+
+- Aby popchnac cos do repa glownego
+
+  git push <alias | url>
+
+- Aby dodac alias do repa
+
   git remote add origin git@github.com:JakubOboza/srcc.git
-  git push origin master
+
+------------------------------------------------------
+
+- .gitignore jest od tego abyście dodawali ignory na pliki projektow z waszych IDE
+
+- katalogi
+
+ bin/    - binarki
+ lib/    - dzielone rzeczy miedzy klienta i server
+ client/ - pliki klienta
+ server/ - pliki servera
+ test/   - folder testow (unit) 
 
 Pozdrawiam Kuba
