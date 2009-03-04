@@ -1,8 +1,8 @@
-Cześć wszystkim.
+﻿Cześć wszystkim.
 
 - Aby zrobic klona repo musicie zrobic
 
-git clone <url do repo>
+  git clone <url do repo>
 
 - Aby cos wkomitowac lokalnie
 
@@ -16,6 +16,10 @@ git clone <url do repo>
 - Aby dodac alias do repa
 
   git remote add origin git@github.com:JakubOboza/srcc.git
+
+- Aby sprawdzic status repa na ktorym pracujecie 
+
+  git status
 
 ------------------------------------------------------
 
