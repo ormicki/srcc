@@ -1,8 +1,8 @@
-CzeÅ›Ä‡ wszystkim.
+Czeœæ wszystkim.
 
 - Aby zrobic klona repo musicie zrobic
 
-git clone <url do repo>
+  git clone <url do repo>
 
 - Aby cos wkomitowac lokalnie
 
@@ -17,9 +17,13 @@ git clone <url do repo>
 
   git remote add origin git@github.com:JakubOboza/srcc.git
 
+- Aby sprawdzic status repa na ktorym pracujecie 
+
+  git status
+
 ------------------------------------------------------
 
-- .gitignore jest od tego abyÅ›cie dodawali ignory na pliki projektow z waszych IDE
+- .gitignore jest od tego abyœcie dodawali ignory na pliki projektow z waszych IDE
 
 - katalogi
 
@@ -31,6 +35,8 @@ git clone <url do repo>
 
 ------------------------------------------------------
 
-A i najwazniejsze, guys dodawajcie do komitÃ³w opisy co kto dodaje i po co  :) 
+A i najwazniejsze, guys dodawajcie do komitów opisy co kto dodaje i po co  :) 
 
 Pozdrawiam Kuba
+
+Pozdrawiam Dawid
