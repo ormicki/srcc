@@ -1,3 +1,12 @@
+/*
+* Document-class:  Server
+*
+* Server class (singleton) constains server engine
+* file: Server.h
+* author: JO
+*/
+
+
 #ifndef __SRCC_SERVER_CLASS__
 #define __SRCC_SERVER_CLASS__
 
