@@ -3,7 +3,9 @@
 
 int main(int argc, char* argv[]){
 
+   // TODO:
    // getopt server address to run and provide it to start class
+   // also read files list from args or use some dir, maybe *.cpp file selection and push it to Client 
 
   Client::getInstance()->run("192.168.1.1:6000");
   

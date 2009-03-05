@@ -25,6 +25,9 @@ void Server::run(int port_number){
   
   // HI I'M WORKER => :worker
   // HI I'M CLIENT => :client
+  // *random* => :outlaw 
+  // :outlaw => lolcode_him! 
+  
   // if accept decide {:client => provide_cloud_for_client , :worker => add_to_worker_pool}
   
   // provide_cloud_for_client
